@@ -13,7 +13,7 @@
     $db = "schoolproject";
     $data = mysqli_connect($host,$user,$password,$db);
     $id=$_GET['student_id'];
-    $sql= "SELECT * FROM user WHERE ID='$id'";
+    $sql= "SELECT * FROM user WHERE id='$id'";
     $result=mysqli_query($data,$sql);
     $info=$result->fetch_assoc();
 
