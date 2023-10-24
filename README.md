@@ -49,6 +49,18 @@ The Student Management System is a web application developed using PHP, HTML, XA
 ## Images
 <img src="2023-10-24 11 09 03.jpg" alt="System Screenshot">
 
+### Admission form
+<img src="2023-10-24 11 10 49.jpg" alt="System Screenshot">
+
+### Login page
+<img src="2023-10-24 11 12 58.jpg" alt="System Screenshot">
+
+### Admin Dashboard
+<img src="admindashboard.jpg" alt="System Screenshot">
+
+### Student Dashboard
+<img src="studentdashboard.jpg" alt="System Screenshot">
+
 ## Contributing
 
 Feel free to contribute to this project. If you have any improvements or features to add, please fork the repository, make your changes, and submit a pull request.
